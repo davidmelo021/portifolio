@@ -76,19 +76,19 @@ li:hover {
 100% {opacity:0}
 }
 
-.arrow path.a1 {
+.arrows path.a1 {
+    animation-delay:  -1s;
+    -webkit-animation-delay:  -1s;
+}
+
+.arrows path.a2 {
     animation-delay:  -0.5s;
     -webkit-animation-delay:  -0.5s;
 }
 
-.arrow path.a2 {
-    animation-delay:  -0.5s;
-    -webkit-animation-delay:  -0.5s;
-}
-
-.arrow path.a3 {
-    animation-delay:  -0.5s;
-    -webkit-animation-delay:  -0.5s;
+.arrows path.a3 {
+    animation-delay:  -0s;
+    -webkit-animation-delay:  -0s;
 }
 
 .content-container {
